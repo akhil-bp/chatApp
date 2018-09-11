@@ -1,5 +1,5 @@
 # Socket.Io Real-time Chat App | A MEAN stack based Real Time chat application
-
+#if error......sudo sysctl fs.inotify.max_user_watches=582222 && sudo sysctl -p
 
 ## Description
 Socket.IO Realtime Chat App | A MEAN stack based real time chat application
